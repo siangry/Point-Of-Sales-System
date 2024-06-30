@@ -1,0 +1,6 @@
+LYZ001|Fabric Sofa|1223.50|50
+LYZ002|Leather Sofa|1525.00|50
+LYZ003|Modular Sofa|1621.50|50
+LYZ004|Sofa-bed|1922.00|50
+LYZ005|Footstools|420.50|50
+LYZ006|Chaise longue|824.50|50
